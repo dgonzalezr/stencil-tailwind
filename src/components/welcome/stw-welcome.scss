@@ -1,0 +1,15 @@
+:host {
+  @apply block font-sans;
+}
+
+.welcome {
+  @apply p-4 max-w-sm mx-auto bg-elevation-1 rounded-xl shadow-md flex items-center space-x-2;
+}
+
+.title {
+  @apply font-bold text-text-1 text-2xl mb-2 mt-0;
+}
+
+.who {
+  @apply font-light text-text-3;
+}
